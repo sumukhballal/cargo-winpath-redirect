@@ -1,0 +1,8 @@
+[package]
+name = "cargo-winpath-redirect"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+fs_extra = "1"
+cargo_metadata = "0.20.0"
