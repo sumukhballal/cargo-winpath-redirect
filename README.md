@@ -26,7 +26,7 @@ Windows has a historical path length limit that can cause build failures in Rust
 1.  Ensure you have Rust and Cargo installed.
 2.  Clone this repository:
     ```bash
-    git clone https://github.com/your-username/cargo-winpath-redirect.git
+    git clone https://github.com/sumukhballal/cargo-winpath-redirect.git
     cd cargo-winpath-redirect
     ```
 3.  Install the tool:
