@@ -23,6 +23,21 @@ Windows has a historical path length limit that can cause build failures in Rust
 
 ## Installation
 
+### Option 1: Install from crates.io
+
+You can install it directly with:
+
+1.  Ensure you have Rust and Cargo installed.
+2.  Run the following Cargo command.
+
+```bash
+cargo install cargo-winpath-redirect
+```
+
+This will download, compile, and install the latest version, placing the cargo-winpath-redirect.exe in your ~/.cargo/bin directory, which should be in your system PATH.
+
+### Option 1: Install from source
+
 1.  Ensure you have Rust and Cargo installed.
 2.  Clone this repository:
     ```bash
