@@ -36,7 +36,7 @@ cargo install cargo-winpath-redirect
 
 This will download, compile, and install the latest version, placing the cargo-winpath-redirect.exe in your ~/.cargo/bin directory, which should be in your system PATH.
 
-### Option 1: Install from source
+### Option 2: Install from source
 
 1.  Ensure you have Rust and Cargo installed.
 2.  Clone this repository:
